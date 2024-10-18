@@ -3,8 +3,8 @@
 # Sonification of plants
 # 17-10-2024
 # Enjoy
-# www.biosonificaiton.altervisa.org
-# www.soundcloud.com/thevoiceofygg
+# https://biosonification.altervista.org/sonification_quest_dominion_of_salt/
+# https://www.soundcloud.com/thevoiceofygg
 #
 
 install.packages("tuneR")
